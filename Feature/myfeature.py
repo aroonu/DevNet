@@ -33,3 +33,4 @@ def add(a: int, b: int) -> int:
 if __name__ == "__main__":
     print(greet("Developer"))
     print(f"2 + 3 = {add(2, 3)}")
+print("Welcome to DevNet")
