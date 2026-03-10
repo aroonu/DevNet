@@ -7,7 +7,7 @@ Basic Python script scaffold.
 def main():
     """Main function."""
     print("Hello, World!")
-    print("Welcome to my DevNet")
+    print("Welcome to DevNet")
 
 
 if __name__ == "__main__":
